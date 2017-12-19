@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 机器学习 第三次实验
 
 关于本仓库：
@@ -13,3 +14,7 @@
 ```
 3. 报告的模板包含在实验的目录页中。
 4. 参考代码也会在所有同学都提交完毕后公布在本仓库中。
+=======
+# Machine-Learning-lab3
+Adaboost for face recognition.
+>>>>>>> ae19089d3ceee0bbf1bc42c2992eb803f8df7c47
